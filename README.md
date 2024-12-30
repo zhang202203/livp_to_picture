@@ -39,7 +39,8 @@ Livp文件批量处理工具
 这个工具旨在提供一个简洁、易用的界面，让用户可以轻松地批量处理 livp 文件，进行转换和解压，同时通过进度条和错误提示等方式给出用户友好的反馈。
 
 
-![p](https://github.com/user-attachments/assets/b0cf5526-bb96-4257-a9b9-a9b760b19e82)
+![p](https://github.com/user-attachments/assets/b0cf5526-bb96-4257-a9b![p4](https://github.com/user-attachments/assets/dc66eb2a-9daf-4739-ae01-6eb9d65f2b07)
+9-a9b760b19e82)
 
 
 
