@@ -41,11 +41,5 @@ Livp文件批量处理工具
 
 ![p](https://github.com/user-attachments/assets/b0cf5526-bb96-4257-a9b9-a9b760b19e82)
 
-![p1](https://github.com/user-attachments/assets/7aa476e1-cef4-4121-ade1-409d6c7089d3)
 
-![p2](https://github.com/user-attachments/assets/f8a5ec29-7228-42ad-bdf9-e05da9699168)
-
-![p3](https://github.com/user-attachments/assets/58318578-c271-4e8e-98a3-fd28a39d9bed)
-
-![p4](https://github.com/user-attachments/assets/d6a8e67c-0a07-4849-b9bd-1ade49db5e4d)
 
